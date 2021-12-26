@@ -1,0 +1,12 @@
+{
+"companyName": "Acid",
+"productName": "Snakes On A Flappy Plane",
+"dataUrl": "Snakes On A Flappy Plane Web.data.unityweb",
+"wasmCodeUrl": "Snakes On A Flappy Plane Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Snakes On A Flappy Plane Web.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
